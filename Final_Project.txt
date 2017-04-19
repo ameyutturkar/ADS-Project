@@ -1,0 +1,7 @@
+Due 14-Dec-2016
+
+For the final project - I'm giving you three very simple problems but I want a group to understand well and implement an efficient solution on its own:
+
+1) Continue with your text analytics assignment but this time you scrape some reviews/blogs from the web using R and then apply the sentiment analysis technique that you have already built as part of your last assignment. There are many R scraping tool such as rvest.
+
+2) Apply NBC and neural networks on the loan data using only relevant categorical variables. Split the data 80/20 and then present the performance of each of the two techniques.
